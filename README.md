@@ -3,12 +3,16 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Structure](#structure)
 - [Features](#features)
 - [Results](#results)
 
 ## Introduction
 
 This repository showcases a robust deep learning model designed to forecast Bitcoin prices using historical data. Leveraging the power of Long Short-Term Memory (LSTM) networks, this project aims to provide accurate predictions that can aid traders, investors, and enthusiasts in making informed decisions.
+
+## Structure
+![Model Example](https://s32.picofile.com/file/8480457884/model.png)
 
 ## Features
 
@@ -24,3 +28,5 @@ This repository showcases a robust deep learning model designed to forecast Bitc
 
 The model was trained for 100 epochs, achieving promising results in both training and validation phases.
 There's a plot in the project that compares the actual Bitcoin prices with the model's predictions, demonstrating the model's accuracy and reliability.
+
+![Alternative Text](images/result.png)
